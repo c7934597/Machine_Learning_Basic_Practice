@@ -3,7 +3,7 @@ Python Numpy Basic Practice
 
 資料參考來源:
 
-Python-Numpy Basic Practice
+Python Numpy Basic Practice
 
 https://www.brilliantcode.net/789/python3-6-turorial/
 
