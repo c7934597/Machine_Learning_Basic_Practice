@@ -1,5 +1,5 @@
-# Python-Numpy_Basic_Practice
-Python-Numpy Basic Practice
+# Python_Numpy_Basic_Practice
+Python Numpy Basic Practice
 
 資料參考來源:
 
