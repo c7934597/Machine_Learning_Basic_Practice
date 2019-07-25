@@ -14,3 +14,7 @@ https://blog.kdchang.cc/2017/08/11/learning-programming-and-coding-with-python-v
 Python 的進階應用
 
 https://medium.com/citycoddee/tagged/python-advanced
+
+Numpy Random
+
+https://www.jianshu.com/p/214798dd8f93
