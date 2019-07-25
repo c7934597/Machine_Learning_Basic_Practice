@@ -1,9 +1,9 @@
-# Python_Numpy_Basic_Practice
-Python Numpy Basic Practice
+# Python_Basic_Practice
+Python Basic Practice
 
 資料參考來源:
 
-Python Numpy Basic Practice
+Python Basic Practice
 
 https://www.brilliantcode.net/789/python3-6-turorial/
 
