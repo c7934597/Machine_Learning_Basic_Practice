@@ -1,8 +1,6 @@
 # Python_Basic_Practice
 Python Basic Practice
 
-資料參考來源:
-
 # Python Basic Practice
 https://www.brilliantcode.net/789/python3-6-turorial/
 
