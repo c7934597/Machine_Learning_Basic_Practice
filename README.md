@@ -18,3 +18,6 @@ https://developers.google.com/machine-learning/crash-course/prereqs-and-prework#
 
 # Colaboratory 教學
 https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9
+
+# TensorFlow 教學
+https://dotblogs.com.tw/shaynling/2017/11/14/173025
