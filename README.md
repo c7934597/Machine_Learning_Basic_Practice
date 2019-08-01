@@ -1,5 +1,5 @@
 # Machine_Learning_Basic_Practice
-Machine Learning Basic Practice
+Machine_Learning_Basic_Practice
 
 # Python Basic Practice
 https://www.brilliantcode.net/789/python3-6-turorial/
