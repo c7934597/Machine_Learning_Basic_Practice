@@ -1,7 +1,7 @@
-# Python_Machine_Learning_Basic_Practice
-Python_Machine_Learning_Basic_Practice
+# Python_Machine_Learning_Basic
+Python_Machine_Learning_Basic
 
-# Python Basic Practice
+# Python Basic
 https://www.brilliantcode.net/789/python3-6-turorial/
 
 # Python 的進階應用
