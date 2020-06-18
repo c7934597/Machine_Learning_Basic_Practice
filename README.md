@@ -1,5 +1,5 @@
-# Python_Machine_Learning_Basic
-Python_Machine_Learning_Basic
+# Python_Machine_Learning
+Python_Machine_Learning
 
 # Python Basic
 https://www.brilliantcode.net/789/python3-6-turorial/
